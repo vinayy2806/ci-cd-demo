@@ -1,0 +1,2 @@
+sudo apt update -y
+sudo apt install -y docker.io git openjdk-11-jdk
